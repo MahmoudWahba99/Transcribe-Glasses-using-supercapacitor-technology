@@ -1,0 +1,45 @@
+/*             Start MAIN Rules                  */
+body
+{
+    background-color: #888;
+    height:4000px;
+
+}
+
+    .container {
+        width: 1170px;
+        margin: auto
+    }
+
+/*                 Eind MAIN Rules                  */
+
+/* Start Header Rules */
+
+.header .Slider {
+background-color :#EEE;
+height:600px
+}
+
+.header .NavegationBar {
+    background-color:#252F31;
+    color:#FFF;
+    overflow:hidden
+}
+
+.haeder .NavegationBar h2 {float:left;text-transform:uppercase}
+.header .NavegationBar h2 span {color:aqua}
+
+
+
+.header .NavegationBar ul {
+    list-style:none;
+    padding-left:0;
+    overflow:hidden
+    
+
+}
+
+
+.header .NavegationBar ul li {float:left;padding:10px}
+
+/* End Header Rules */

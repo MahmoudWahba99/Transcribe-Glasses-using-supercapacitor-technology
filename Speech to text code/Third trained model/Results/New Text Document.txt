@@ -1,0 +1,6 @@
+accuracy: 0.9211 - loss: 0.2652 - val_accuracy: 0.9512 - val_loss: 0.1637
+
+Test Loss: 0.16282090544700623
+Test Accuracy: 0.9507544636726379
+
+Average Word Error Rate (WER): 0.049245548493522875
